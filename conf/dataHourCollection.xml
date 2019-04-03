@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+        <!-- spark应用名称  -->
+        <appName>DDCDataHourCollection</appName>
+        <!-- 设备采集实时统计表  -->
+        <devTotalTable>DDCDevRealTotal</devTotalTable>
+        <!-- 设备采集统计表（按小时）  -->
+        <devHourTable>DDCDevHourTotal</devHourTable>
+</config>
